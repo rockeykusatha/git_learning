@@ -10,4 +10,6 @@ git commit -m "initial commit"
 
 # git branch
 git branch
-
+git branch -m "new_branch_name"
+git branch "new_branch_name"
+git checkout "branch_name"
